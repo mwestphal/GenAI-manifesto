@@ -96,7 +96,7 @@ completely hiding away quality content.
 15. Malicious usage
 
 GenIA is being used by malicious actors to scam, steal, hack, harass, assault and manipulate at a unprecedented scale,  
-and this will keep increasing as this method is actually scallable, which is unprecedented. 
+and this will keep increasing as this method is actually scallable, which is unprecedented.  
 [15a] [15b] [15c] [15d] [15e] [15f] [15g] [15h]
 
 16. Military usage
