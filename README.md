@@ -3,7 +3,7 @@ A manifesto against Generative AI usage
 
 # Website
 
-<https://github.com/mwestphal/GenAI-manifesto>
+<https://mwestphal.github.io/GenAI-manifesto/>
 
 # License
 
