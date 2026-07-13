@@ -125,7 +125,7 @@ While some of these points can be adressed in the future thanks to regulations, 
 for all reasons above and until all of them have been adressed in some way or form, Generative IA, in the form it is currently available  
 **should not be used by anyone**.
 
-*License: CC0 1.0 Universel*  
+*License: CC0 1.0 Universal*  
 *Source: <https://github.com/mwestphal/GenAI-manifesto>*
 
 [1a]: https://jskfellows.stanford.edu/theft-is-not-fair-use-474e11f0d063
