@@ -1,36 +1,36 @@
 # Generative AI Manifesto
 
-**We believe that generative IA is currently transforming the world for the worse,  
+**We believe that generative AI is currently transforming the world for the worse,  
 here is a list of point of contentions.**
 
 1. Ethics
 
-All GenIA have been trained on corpus of images, texts, movies and documents without any authorisation,  
+All GenAI have been trained on corpus of images, texts, movies and documents without any authorisation,  
 and when such data had some licences associated to it, it is never respected and most of it can be recovered from the models directly.  
 [1a] [1b] [1c]
 
 2. Biases
 
-GenIA being trained any available data, it only can reproduce the racial, sexist, ableist,  
+GenAI being trained any available data, it only can reproduce the racial, sexist, ableist,  
 classist biases contains in these data, making it even harder to remove these biases.  
 [2a] [2b]
 
 3. Education
 
-GenIA being able to do everything means that there is no reason to learn anything in school nor later in life.  
-With GenIA, there is no improvements to your own cognitive abilities.  
+GenAI being able to do everything means that there is no reason to learn anything in school nor later in life.  
+With GenAI, there is no improvements to your own cognitive abilities.  
 [3a] [3b]
 
 4. Skill Decay
 
-Using GenIA to perform a task instead of doing it means not exercising the skills needed to do this task,  
+Using GenAI to perform a task instead of doing it means not exercising the skills needed to do this task,  
 which means slowly forgetting how to do this task, which slowly reduce your cognitive abilities and technical skills.  
 [4a] [4b]
 
 5. Delocalisation of the mind
 
-Anything that humans use GenIA to do in their place is something that  
-they wont be able to do when GenIA is not available for any reason,  
+Anything that humans use GenAI to do in their place is something that  
+they wont be able to do when GenAI is not available for any reason,  
 making you dependent on yet another service that is being monetized.  
 [5a] [5b] [5c]
 
@@ -38,83 +38,83 @@ making you dependent on yet another service that is being monetized.
 
 Money has been able to buy everything, status, power, freedom,   
 however it was not able to but actual skills.  
-Now with GenIA, it is possible to buy, in an indirect way, skills.  
+Now with GenAI, it is possible to buy, in an indirect way, skills.  
 This is stealing one of the last equalizer of the world.  
 [6a]
 
 7. Capitalism
 
-GenIA is owned and controlled by capitalist corporate entitities that have only commercial objective in mind.  
-If GenIA is a means of production, workers should own it.  
-In its current state, GenIA is stealing the workers of their labors.  
+GenAI is owned and controlled by capitalist corporate entitities that have only commercial objective in mind.  
+If GenAI is a means of production, workers should own it.  
+In its current state, GenAI is stealing the workers of their labors.  
 [7a] [7b]
 
 8. Politics
 
-GenIA is owned by entities that can and already manipulate its results for political reasons, with no oversight.  
-Expect more manipulations as these entities becomes better at controlling their IA models.  
+GenAI is owned by entities that can and already manipulate its results for political reasons, with no oversight.  
+Expect more manipulations as these entities becomes better at controlling their AI models.  
 [8a] [8b] [8c]
 
 9. Infrastructure
 
-GenIA rely on a complex hardware infrastucture which is owned and operated by yet other capitalist entities  
+GenAI rely on a complex hardware infrastucture which is owned and operated by yet other capitalist entities  
 which have full control of it, which is a strong leverage tool for these entities.  
 [9a] [9b]
 
 10. Productivism
 
-GenIA is more efficient at doing certains tasks than human, but that fact doesn’t means that GenIA should be used.  
+GenAI is more efficient at doing certains tasks than human, but that fact doesn’t means that GenAI should be used.  
 Being more productive is not an objective in itself for human beings.  
 [10a] [10b] [10c]
 
 11. Creative expression
 
-GenIA is currently displacing the jobs of many artists and creators which were able to rely on their crafts for income and now cannot,  
+GenAI is currently displacing the jobs of many artists and creators which were able to rely on their crafts for income and now cannot,  
 this concerns not only visual arts but developpers as well, as code is a creative expression of oneself.  
-Using GenIA for such tasks removes all creativity.  
+Using GenAI for such tasks removes all creativity.  
 [11a] [11b] [11c]
 
 12. Ecology
 
-GenIA has ecological costs that are astronomical compared to doing the same task manually,  
+GenAI has ecological costs that are astronomical compared to doing the same task manually,  
 and these seems to be completely ignored in the context of the current ecological crisis.  
 [12a]
 
 13. Fascism
 
-GenIA is the perfect tool for fascisct has it helps with misinformation, revisionnism and surveillance control,  
+GenAI is the perfect tool for fascisct has it helps with misinformation, revisionnism and surveillance control,  
 reducing the role of artists and creative people in society, which is historically an strong group against fascism,  
 ultimely preventing people to form their own critical thinking skills.  
 [13a] [13b] [13c]
 
 14. Slopification
 
-GenIA is creating an amount of content that is completely overwhelming in comparison to human made content, 
+GenAI is creating an amount of content that is completely overwhelming in comparison to human made content, 
 completely hiding away quality content.  
 [14a] [14b] [14c]
 
 15. Malicious usage
 
-GenIA is being used by malicious actors to scam, steal, hack, harass, assault and manipulate at a unprecedented scale,  
+GenAI is being used by malicious actors to scam, steal, hack, harass, assault and manipulate at a unprecedented scale,  
 and this will keep increasing as this method is actually scallable, which is unprecedented.  
 [15a] [15b] [15c] [15d] [15e] [15f] [15g] [15h]
 
 16. Military usage
 
-GenIA is used and will be used extensively by gouvernement to increase their efficiency in military making any other entity,  
-governemental or otherwise, unable to fight against it in any way, unless they have access to their own GenIA.  
+GenAI is used and will be used extensively by gouvernement to increase their efficiency in military making any other entity,  
+governemental or otherwise, unable to fight against it in any way, unless they have access to their own GenAI.  
 [16a] [16b] [16c] [16d]
 
 17. Surveillance usage
 
-GenIA is already used by police force and will be used extensively for digital surveillance,   
+GenAI is already used by police force and will be used extensively for digital surveillance,   
 militant activity monitoring and to oppose any kind of social movement,  
 under the guise of security as it has already been done for decades, but at a scale never seen before.  
 [17a] [17b]
 
 18. End Game
 
-There is two ways GenIA is going, either   
+There is two ways GenAI is going, either   
 (1) it becomes as good as AI companies are saying and will be able to replace literally everyones jobs or  
 (2) it crashes out in a economic bubble never seen before.  
 There is no good outcome, there is no UBI, there is no freedom.
@@ -122,7 +122,7 @@ There is no good outcome, there is no UBI, there is no freedom.
 19. Conclusion
 
 While some of these points can be adressed in the future thanks to regulations, open source models, open data, energy efficiency and so on,  
-for all reasons above and until all of them have been adressed in some way or form, Generative IA, in the form it is currently available  
+for all reasons above and until all of them have been adressed in some way or form, generative AI, in the form it is currently available  
 **should not be used by anyone**.
 
 *License: CC0 1.0 Universal*  
