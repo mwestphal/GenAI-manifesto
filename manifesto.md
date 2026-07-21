@@ -37,7 +37,7 @@ making you dependent on yet another service that is being monetized.
 6. Skill stealing
 
 Money has been able to buy everything, status, power, freedom,   
-however it was not able to but actual skills.  
+however it was not able to buy actual skills.  
 Now with GenAI, it is possible to buy, in an indirect way, skills.  
 This is stealing one of the last equalizer of the world.  
 [6a]
@@ -83,7 +83,7 @@ and these seems to be completely ignored in the context of the current ecologica
 13. Fascism
 
 GenAI is the perfect tool for fascisct has it helps with misinformation, revisionnism and surveillance control,  
-reducing the role of artists and creative people in society, which is historically an strong group against fascism,  
+reducing the role of artists and creative people in society, which is historically a strong group against fascism,  
 ultimely preventing people to form their own critical thinking skills.  
 [13a] [13b] [13c]
 
@@ -103,6 +103,7 @@ and this will keep increasing as this method is actually scallable, which is unp
 
 GenAI is used and will be used extensively by gouvernement to increase their efficiency in military making any other entity,  
 governemental or otherwise, unable to fight against it in any way, unless they have access to their own GenAI.  
+In case of mistake, blaming AI may also be an easy way out of responsabilities.  
 [16a] [16b] [16c] [16d]
 
 17. Surveillance usage
@@ -117,7 +118,7 @@ under the guise of security as it has already been done for decades, but at a sc
 There is two ways GenAI is going, either   
 (1) it becomes as good as AI companies are saying and will be able to replace literally everyones jobs or  
 (2) it crashes out in a economic bubble never seen before.  
-There is no good outcome, there is no UBI, there is no freedom.
+There is no good outcome, there is no Universal Basic Income, there is no freedom.
 
 19. Conclusion
 
